@@ -8,7 +8,7 @@ dist: trusty
 
 language: java
 jdk:
-    - openjdk11
+    - openjdk17
    #- oraclejdk9
 
 env:
